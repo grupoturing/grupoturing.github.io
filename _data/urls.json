@@ -1,35 +1,23 @@
 [
   {
-    "text": "Home",
+    "text": "Inicio",
     "url": "/",
     "icon": "fa-home",
     "layout": "post"
   },
   {
-    "text": "About",
+    "text": "Sobre",
     "url": "/about/",
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
+    "text": "Projetos",
     "url": "/projects",
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
-    "url": "#",
-    "icon": "fa-graduation-cap",
-    "layout": "post"
-  },
-  {
     "text": "Github",
-    "url": "",
+    "url": "https://github.com/grupoturing",
     "icon": "fa-github"
-  },
-  {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
   }
 ]

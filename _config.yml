@@ -1,9 +1,9 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+title: Grupo Turing
+description: Grupo de estudos
+author: Grupo Turing
+logo: ../static/img/gturing-logo.jpg
+github: https://github.com/grupoturing
+about: Grupo de estudos
 
 baseurl: ""
 url: "http://aboutashu.com/hcz-jekyll-blog"
